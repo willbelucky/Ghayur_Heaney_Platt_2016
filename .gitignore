@@ -1,0 +1,6 @@
+# Data files
+data/
+*.h5
+
+# PyCharm files
+.idea/
